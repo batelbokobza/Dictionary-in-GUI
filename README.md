@@ -1,1 +1,1 @@
-# Dictionary-in-GUI
+GUI Dictionary in Java
